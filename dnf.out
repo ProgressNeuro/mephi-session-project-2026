@@ -1,0 +1,6 @@
+ID     | Command line                                                                                              | Date and time    | Action(s)      | Altered
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+     4 | install policycoreutils-python-utils                                                                      | 2026-11-22 14:08 | Install        |    8  <
+     3 | install nginx libcap-ng-utils                                                                             | 2026-11-22 13:23 | Install        |    9 > 
+     2 | upgrade                                                                                                   | 2026-11-22 13:20 | I, O, U        |  191 E<
+     1 |                                                                                                           | 2026-11-22 12:53 | Install        |  555 >E
